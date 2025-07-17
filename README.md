@@ -78,6 +78,16 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
   <img src="https://media.giphy.com/media/TL6nPCa7W1qkU/giphy.gif" width="200" alt="Pacman Animation" />
 </p>
 
+
+---
+
+## 🎮 Retro Animation
+
+<p align="center">
+  <img src="https://github.com/bmhrwn/bmhrwn/blob/output/github-matrix.svg" alt="Retro Matrix Animation" />
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
