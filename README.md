@@ -74,25 +74,6 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
 
 ---
 
-## 🌈 Typing Effect Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+to+Collaboration;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
-
-
-
----
-
-## 🎮 Gameboy Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="code" />
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
