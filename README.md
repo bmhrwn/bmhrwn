@@ -45,7 +45,7 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
 </p>
@@ -70,21 +70,24 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
+
+
 ---
 
-## 🎮 Pac-Man Animation
+## 🌈 Typing Effect Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TL6nPCa7W1qkU/giphy.gif" width="200" alt="Pacman Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+to+Collaboration;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 
+
 ---
 
-## 🎮 Retro Animation
+## 🎮 Gameboy Animation
 
 <p align="center">
-  <img src="https://github.com/bmhrwn/bmhrwn/blob/output/github-matrix.svg" alt="Retro Matrix Animation" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="code" />
 </p>
 
 
