@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://bmhrwn.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-bmhrwn.vercel.app-blueviolet?style=for-the-badge&logo=vercel" />
+  <a href="https://bmhrwn.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-bmhrwn.netlify.app-blueviolet?style=for-the-badge&logo=netlify" />
   </a>
   <a href="https://nadbim.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Wedding%20Website-nadbim.netlify.app-ff69b4?style=for-the-badge&logo=netlify" />
