@@ -35,7 +35,6 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
 > 💡 *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
-
 ## 🔧 Tech Stack
 
 <p align="center">
@@ -69,8 +68,6 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
-
-
 
 ---
 
