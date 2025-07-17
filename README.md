@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Bima Hariawan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Clean+and+Scalable+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Wedding%20Website-nadbim.netlify.app-ff69b4?style=for-the-badge&logo=netlify" />
   </a>
   <a href="mailto:bimahariawan27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bimahariawan27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-bimahariawan27@gmail.com-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/bmhrwn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-bmhrwn-blue?style=for-the-badge&logo=linkedin" />
@@ -20,57 +20,67 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
-Saya adalah seorang **Full Stack Developer** dengan pengalaman membangun aplikasi web yang scalable dan user-friendly.  
-Berpengalaman dengan **Next.js, React.js, Node.js, Material-UI**, serta backend stack modern.
-
-**Keahlian saya:**
+Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang **scalable dan user-friendly** dari frontend hingga backend.
 
 ✅ **Frontend**: Next.js, React.js, Material-UI, Tailwind  
 ✅ **Backend**: Node.js, Express, Laravel, NestJS, PHP, Golang  
 ✅ **Database**: PostgreSQL, MongoDB, MySQL  
 ✅ **State Management**: Redux, Zustand  
-✅ **Deployment & CI/CD**: Vercel, Docker  
+✅ **Deployment**: Vercel, Docker  
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
-## 🕹️ Play PAC-MAN (langsung jalan)
+## 🔧 Tech Stack
 
 <p align="center">
-  <iframe src="https://pacman.platzh1rsch.ch/" width="320" height="400" style="border:none;"></iframe>
-  <br/>
-  <em>Use arrow keys ⬅️ ⬆️ ⬇️ ➡️ to play. Game starts automatically!</em>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go" />
+</p>
+
+<p align="center">
+  <!-- Database & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🎮 Pac-Man Animation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=flat&logo=mui" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+  <img src="https://media.giphy.com/media/TL6nPCa7W1qkU/giphy.gif" width="200" alt="Pacman Animation" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmhrwn&show_icons=true&theme=tokyonight&count_private=true" />
@@ -88,12 +98,12 @@ Berpengalaman dengan **Next.js, React.js, Node.js, Material-UI**, serta backend 
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
-| Project               | Deskripsi                                   | Link                                                |
-|-----------------------|---------------------------------------------|-----------------------------------------------------|
-| 🧠 3D Portfolio        | Web 3D interaktif untuk personal branding   | [Live](https://bmhrwn.vercel.app)                  |
-| 💍 Wedding Website     | Website undangan pernikahan interaktif     | [Live](https://nadbim.netlify.app)                 |
+| Project             | Deskripsi                                   | Link                                                |
+|---------------------|---------------------------------------------|-----------------------------------------------------|
+| 🧠 3D Portfolio      | Web 3D interaktif untuk personal branding   | [Live](https://bmhrwn.vercel.app)                  |
+| 💍 Wedding Website   | Website undangan pernikahan interaktif     | [Live](https://nadbim.netlify.app)                 |
 
 ---
 
@@ -107,5 +117,5 @@ Berpengalaman dengan **Next.js, React.js, Node.js, Material-UI**, serta backend 
 ---
 
 <p align="center">
-  <em>Thanks for visiting my profile 🙏 Let’s collaborate and build something awesome together! 🚀</em>
+  <em>Thank you for visiting my profile 🙏 Let's connect and build something awesome together! 🚀</em>
 </p>
