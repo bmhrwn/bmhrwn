@@ -93,7 +93,7 @@ Saya adalah Full Stack Developer berpengalaman dalam membangun aplikasi web yang
 
 | Project             | Deskripsi                                   | Link                                                |
 |---------------------|---------------------------------------------|-----------------------------------------------------|
-| 🧠 3D Portfolio      | Web 3D interaktif untuk personal branding   | [Live](https://bmhrwn.vercel.app)                  |
+| 🧠 3D Portfolio      | Web 3D interaktif untuk personal branding   | [Live](https://bmhrwn.netlify.app)                  |
 | 💍 Wedding Website   | Website undangan pernikahan interaktif     | [Live](https://nadbim.netlify.app)                 |
 
 ---
