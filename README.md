@@ -78,24 +78,66 @@ Saya adalah **Full Stack Developer** yang berpengalaman membangun aplikasi web *
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🧠 3D Portfolio</h3>
-      <p>Web 3D interaktif untuk personal branding</p>
-      <a href="https://bmhrwn.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+    <td width="50%" valign="top">
+      <h3>💍 Digital Wedding Website</h3>
+      <p>Website pernikahan modern berbasis Next.js dan MongoDB. Menyediakan RSVP, galeri, dan undangan digital yang responsif dan customizable.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/RSVP_System-EAB308?style=flat-square" />
+        <img src="https://img.shields.io/badge/Responsive-A855F7?style=flat-square" />
+      </p>
+      <a href="https://nadbim.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-ec4899?style=for-the-badge" /></a>
+      <a href="https://github.com/bmhrwn/wedding-digital"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
     </td>
-    <td align="center" width="50%">
-      <h3>💍 Wedding Website</h3>
-      <p>Website undangan pernikahan yang interaktif</p>
-      <a href="https://nadbim.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-ec4899?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+    <td width="50%" valign="top">
+      <h3>📈 UMKM Admin Dashboard</h3>
+      <p>Dashboard admin untuk UMKM: ringkasan penjualan, grafik omzet, manajemen produk dan pesanan, dengan dark mode dan tabel yang bisa difilter.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dark_Mode-A855F7?style=flat-square" />
+      </p>
+      <a href="https://warungkita23.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-6366f1?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 KasirKu</h3>
+      <p>Aplikasi kasir untuk warung dan UMKM: cari produk, filter kategori, keranjang belanja, hitung kembalian otomatis, cetak struk, dan riwayat transaksi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/POS-F97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/Responsive-EC4899?style=flat-square" />
+      </p>
+      <a href="https://kasirku27.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-f97316?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📒 KasbonKu</h3>
+      <p>Aplikasi pencatat utang pelanggan warung: catat kasbon, cicilan pembayaran, pantau jatuh tempo, dan kirim pengingat penagihan via WhatsApp.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/LocalStorage-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dark_Mode-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Responsive-EC4899?style=flat-square" />
+      </p>
+      <a href="https://kasbonku27.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-25D366?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+🧠 Ingin lihat lebih banyak? Kunjungi **[3D Portfolio](https://bmhrwn.netlify.app)** saya.
 
 </div>
 
@@ -105,19 +147,11 @@ Saya adalah **Full Stack Developer** yang berpengalaman membangun aplikasi web *
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bmhrwn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmhrwn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bmhrwn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmhrwn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bmhrwn&theme=tokyonight&hide_border=true&border_radius=12" />
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bmhrwn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 ---
@@ -145,10 +179,6 @@ Saya adalah **Full Stack Developer** yang berpengalaman membangun aplikasi web *
 | 💼 **LinkedIn** | [linkedin.com/in/bmhrwn](https://www.linkedin.com/in/bmhrwn) |
 | 🐙 **GitHub** | [github.com/bmhrwn](https://github.com/bmhrwn) |
 | 📱 **WhatsApp** | [085710925647](https://wa.me/6285710925647) |
-
-<!-- Tambahkan link lain di sini, contoh:
-| 📸 **Instagram** | [instagram.com/username](https://instagram.com/username) |
--->
 
 </div>
 
